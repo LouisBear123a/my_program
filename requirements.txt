@@ -1,0 +1,5 @@
+openai==0.10.2
+python-nmap==0.6.1
+python-owasp-zap-v2.4==0.0.17
+python3-openvas==0.1.5
+requests==2.26.0
